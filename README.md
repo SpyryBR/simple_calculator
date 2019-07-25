@@ -1,5 +1,6 @@
-***LIVE PREVIEW/VISUALIZAÇÃO AO VIVO***
 
+Live preview/Visualização ao vivo
+=================
 [Here/Aqui](https://calculator-spyry.glitch.me/)
 
 =================
@@ -21,6 +22,8 @@ Olá!
 Feito por **Spyry**
 
 
-**Screenshot/Capturas de tela**
 
-![SCREENSHOT/CAPTURA_DE_TELA](http://prntscr.com/ojo750)
+Screenshot/Caputa de tela
+=================
+
+![SCREENSHOT/CAPTURA_DE_TELA](https://image.prntscr.com/image/0P82U579RjWpYKfv-JpMpg.png)
